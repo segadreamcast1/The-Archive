@@ -1,4 +1,4 @@
-# The SDCast Archive
+# The Nontext Archive
 
 ## This is an archive of random images, memes, videos, etc.
 **You *can* contribute, but if it's personal... Don't.**
