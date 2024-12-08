@@ -1,26 +1,26 @@
 # The Nontext Archive
 
-welcome to the **The Nontext Archive**, your one-stop destination for all things no context! this archive is organized into the following categories for easy browsing:
+welcome to the **The Nontext Archive**, your one-stop destination for all things no context! this archive is organized into the following categories:
 
 ## Categories
 
-- **[Videos](./videos/)**
-  a collection of videos.
+- **[Videos](https://github.com/segadreamcast1/The-Nontext-Archive/tree/main/videos)**
+  
 
-- **[GIFs](./gifs/)**
-  the best looped reactions and iconic moments captured in GIF format.
+- **[GIFs](https://github.com/segadreamcast1/The-Nontext-Archive/tree/main/gifs)**
+  
 
-- **[Random](./random/)**
-  a mixed bag of unpredictable things.
+- **[Random](https://github.com/segadreamcast1/The-Nontext-Archive/tree/main/random)**
+  
 
-- **[Audio](./audio/)**
-  sound bytes (all pun intended), meme songs, and audio clips that define internet culture.
+- **[Audio](https://github.com/segadreamcast1/The-Nontext-Archive/tree/main/audio)**
+  
 
-- **[Images](./images/)**
-  classic and new images to share and enjoy.
+- **[Images](https://github.com/segadreamcast1/The-Nontext-Archive/tree/main/images)**
+  
 
-- **[Quotes](./quotes/)**
-  worthy text and sayings that stand the test of time.
+- **[Quotes](https://github.com/segadreamcast1/The-Nontext-Archive/tree/main/quotes)**
+  
 
 ---
 
