@@ -1,9 +1,8 @@
 # The Nontext Archive
 
-## This is an archive of random images, memes, videos, etc.
-**You *can* contribute, but if it's personal... Don't.**
+## this is an archive of random images, memes, videos, etc. hosted on GitHub, and built by Jekyll
 
 # HOW TO CONTRIBUTE
-1. Fork the repository
-2. Upload your files
-3. Make a pull request and wait for merge
+1. fork the repository
+2. upload your files
+3. make a pull request and wait for merge
